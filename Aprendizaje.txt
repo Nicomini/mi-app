@@ -1,0 +1,6 @@
+Practica:
+
+-Estructura inicial de una app de React
+-Como crear un componente de React
+-Como trabajar con Jsx y JS
+-Como usar los props
